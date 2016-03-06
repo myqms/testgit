@@ -1,1 +1,2 @@
 Dies ist die Datei foo.txt.
+Änderung im branch def
